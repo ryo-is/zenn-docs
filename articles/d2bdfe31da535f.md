@@ -14,3 +14,7 @@ published: false
 
 めちゃくちゃ使いやすいじゃん…
 個人の記事もGithubで管理しよう。
+
+## 画像
+
+![](/images/Vite.js.png)
